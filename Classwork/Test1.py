@@ -1,2 +1,2 @@
-print ("hello beautiful world")
-print ("goodbye cruel world")
+num1 = int(input('Enter the first number: '))
+print('num1')
