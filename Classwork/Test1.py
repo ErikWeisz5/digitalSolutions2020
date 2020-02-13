@@ -1,2 +1,2 @@
 print ("hello beautiful world")
-print ("goodbye cruil world")
+print ("goodbye cruel world")
