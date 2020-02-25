@@ -9,4 +9,4 @@ elif 7 <= month <= 9:
 elif 10 <= month <= 12:
     print('fourth quarter')
 else:
-    print('ERROR 404 MONTH NOT FOUND ')
+    print('ERROR 404 MONTH NOT FOUND')
